@@ -8,7 +8,7 @@ The project makes use of traffic camera location data sourced from [here](https:
 
 ## Using Amazon SageMaker Notebooks
 
-This code will run in any Jupyter environment. I used an Amazon SageMaker Notebook, as described below. Amazon SageMaker is part of AWS, so you will need an AWS account.
+This code will run in any Jupyter environment. I used an Amazon SageMaker Notebook, as described below. Amazon SageMaker is part of AWS, so you will need an AWS account to follow this approach.
 
 Start by navigating to Amazon SageMaker in the AWS console. In the Amazon SageMaker menu, under **Notebook**, select **Notebook instances**.
 
